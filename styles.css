@@ -19,3 +19,7 @@ html, body {
     display: inline-block;
     background: rgba(11, 162, 81, 1);
 }
+.goods-pics{
+    width: 94px;
+    height: 94px;
+}
